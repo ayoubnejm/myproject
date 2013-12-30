@@ -5,7 +5,7 @@ public enum Jours {
 	mardi,
 	mercredi,
 	jeudi,
-	friday,
+	vendredi,
 	samedi,
 	dimanche;
 }
