@@ -2,7 +2,7 @@
 package pje;
 public enum Jours {
 	monday,
-	tuesday,
+	mardi,
 	mercredi,
 	jeudi,
 	friday,
